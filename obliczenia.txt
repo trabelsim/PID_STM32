@@ -1,0 +1,5 @@
+stała czasowa
+τ = RC
+R = 100 kOhm = 100000 Ohm
+C = 10 uF = 0.00001 F
+τ = 100000 Ohm * 0.00001 F =1s
